@@ -1,4 +1,4 @@
-# [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
+# [![Qrono Uptime](https://user-images.githubusercontent.com/25114792/149401469-ab574c85-0b28-48f6-8f6a-b3cec8a9d62b.png)](https://qrono.dev)
 
 <!--start: description-->
 
