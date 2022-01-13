@@ -12,6 +12,10 @@
 [![Static Site CI](https://github.com/upptime/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/upptime/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Summary+CI%22)
 
+## How it works:
+<img width="828" alt="Screen Shot 2022-01-13 at 3 22 49 PM" src="https://user-images.githubusercontent.com/25114792/149403653-5013acb8-a42a-4691-9692-f65898e46404.png">
+
+
 ## [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
 
 <!--start: status pages-->
