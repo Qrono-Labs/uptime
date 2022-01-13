@@ -1,13 +1,9 @@
-# [![Qrono Uptime](https://user-images.githubusercontent.com/25114792/149401469-ab574c85-0b28-48f6-8f6a-b3cec8a9d62b.png)](https://qrono.dev)
+# [![Qrono Uptime](https://raw.githubusercontent.com/Qrono-Labs/uptime/4b7ab1139485f65c7462ae0ac4afa56f99539f02/assets/qrono-icon.svg)](https://qrono.dev)
 
 <!--start: description-->
+### Qrono Uptime Monitoring
 
-**Upptime** (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions, Issues, and Pages. It's made with 💚 by your friends at [Koj](https://koj.co).
-
-> I find Upptime an incredible clever usage of \[GitHub Actions]. You essentially get a free configurable uptime monitor for whatever you want. – [CSS Tricks](https://css-tricks.com/upptime/)
-
-Upptime is used by [**1,000+**](https://github.com/topics/upptime) people and teams to ensure they know when their endpoints go down.
-
+**Upptime** (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions, Issues, and Pages.
 <!--end: description-->
 
 [![Uptime CI](https://github.com/upptime/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
@@ -15,6 +11,10 @@ Upptime is used by [**1,000+**](https://github.com/topics/upptime) people and te
 [![Graphs CI](https://github.com/upptime/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Graphs+CI%22)
 [![Static Site CI](https://github.com/upptime/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/upptime/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Summary+CI%22)
+
+## How it works:
+<img width="828" alt="Screen Shot 2022-01-13 at 3 22 49 PM" src="https://user-images.githubusercontent.com/25114792/149403653-5013acb8-a42a-4691-9692-f65898e46404.png">
+
 
 ## [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
 
@@ -106,14 +106,3 @@ Four times per day, another workflow runs and records the response time of your 
 
 - Code: [MIT](./LICENSE) © [Koj](https://koj.co)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
-
-<!--start: logo-->
-<p align="center">
-  <a href="https://koj.co">
-    <img width="44" alt="Koj" src="https://kojcdn.com/v1598284251/website-v2/koj-github-footer_m089ze.svg">
-  </a>
-</p>
-<p align="center">
-  <sub>An open source project by <a href="https://koj.co">Koj</a>. <br> <a href="https://koj.co">Furnish your home in style, for as low as CHF175/month →</a></sub>
-</p>
-<!--end: logo-->
