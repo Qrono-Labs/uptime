@@ -1,4 +1,4 @@
-# [![Qrono Uptime](https://user-images.githubusercontent.com/25114792/149401469-ab574c85-0b28-48f6-8f6a-b3cec8a9d62b.png)](https://qrono.dev)
+# [![Qrono Uptime](https://raw.githubusercontent.com/Qrono-Labs/uptime/4b7ab1139485f65c7462ae0ac4afa56f99539f02/assets/qrono-icon.svg)](https://qrono.dev)
 
 <!--start: description-->
 
