@@ -30,8 +30,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/Qrono-Labs/uptime/4b7ab1139485f65c7462ae0ac4afa56f99539f02/assets/qrono-icon.svg
   name: Qrono Status
-  introTitle: "Qrono uses Upptime to track & host our real-time status for each of our services"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Qrono real-time monitoring & service status"
+  introMessage: You can subscribe to notifications here. You can also join our [discord](https://discord.gg/DfQTVTeCWE) if there are any issues
   navbar:
     - title: Status
       href: /
