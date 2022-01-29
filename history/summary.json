@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 426,
-    "timeDay": 392,
-    "timeWeek": 440,
-    "timeMonth": 426,
-    "timeYear": 426,
+    "time": 425,
+    "timeDay": 410,
+    "timeWeek": 445,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 51,
+    "time": 50,
     "timeDay": 43,
-    "timeWeek": 53,
-    "timeMonth": 51,
-    "timeYear": 51,
+    "timeWeek": 54,
+    "timeMonth": 50,
+    "timeYear": 50,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 98,
-    "timeDay": 84,
-    "timeWeek": 102,
-    "timeMonth": 98,
-    "timeYear": 98,
+    "time": 97,
+    "timeDay": 88,
+    "timeWeek": 105,
+    "timeMonth": 97,
+    "timeYear": 97,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +59,17 @@
     "icon": "https://raw.githubusercontent.com/Qrono-Labs/uptime/4b7ab1139485f65c7462ae0ac4afa56f99539f02/assets/qrono-icon.svg",
     "slug": "qrono-hosted-booking-pages",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 240,
-    "timeWeek": 237,
+    "timeDay": 225,
+    "timeWeek": 239,
     "timeMonth": 247,
     "timeYear": 247,
-    "dailyMinutesDown": {
-      "2022-01-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Qrono Docs",
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1314,
-    "timeDay": 1080,
-    "timeWeek": 1047,
-    "timeMonth": 1314,
-    "timeYear": 1314,
+    "time": 1294,
+    "timeDay": 940,
+    "timeWeek": 996,
+    "timeMonth": 1294,
+    "timeYear": 1294,
     "dailyMinutesDown": {}
   }
 ]
