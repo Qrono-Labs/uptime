@@ -76,9 +76,9 @@
     "url": "https://docs.qrono.dev/",
     "icon": "https://raw.githubusercontent.com/Qrono-Labs/uptime/4b7ab1139485f65c7462ae0ac4afa56f99539f02/assets/qrono-icon.svg",
     "slug": "qrono-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 911,
     "timeMonth": 969,
     "timeYear": 1135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-15": 0
+    }
   }
 ]
