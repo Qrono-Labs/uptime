@@ -60,9 +60,9 @@
     "url": "https://book.qrono.dev/demo",
     "icon": "https://raw.githubusercontent.com/Qrono-Labs/uptime/4b7ab1139485f65c7462ae0ac4afa56f99539f02/assets/qrono-icon.svg",
     "slug": "qrono-hosted-booking-pages",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -72,6 +72,7 @@
     "timeMonth": 673,
     "timeYear": 364,
     "dailyMinutesDown": {
+      "2022-06-08": 0,
       "2022-04-14": 16
     }
   },
