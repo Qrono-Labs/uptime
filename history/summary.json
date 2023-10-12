@@ -5,18 +5,19 @@
     "icon": "https://raw.githubusercontent.com/Qrono-Labs/uptime/4b7ab1139485f65c7462ae0ac4afa56f99539f02/assets/qrono-icon.svg",
     "slug": "qrono-api",
     "status": "down",
-    "uptime": "42.66%",
+    "uptime": "42.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.23%",
+    "uptimeYear": "0.00%",
     "time": 557,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-11": 11,
+      "2023-10-12": 10,
+      "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -379,8 +380,7 @@
       "2022-10-16": 1440,
       "2022-10-15": 1440,
       "2022-10-14": 1440,
-      "2022-10-13": 1440,
-      "2022-10-12": 1440
+      "2022-10-13": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://raw.githubusercontent.com/Qrono-Labs/uptime/4b7ab1139485f65c7462ae0ac4afa56f99539f02/assets/qrono-icon.svg",
     "slug": "qrono-site",
     "status": "down",
-    "uptime": "42.66%",
+    "uptime": "42.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.23%",
+    "uptimeYear": "0.00%",
     "time": 120,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-11": 11,
+      "2023-10-12": 10,
+      "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -763,8 +764,7 @@
       "2022-10-16": 1440,
       "2022-10-15": 1440,
       "2022-10-14": 1440,
-      "2022-10-13": 1440,
-      "2022-10-12": 1440
+      "2022-10-13": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://raw.githubusercontent.com/Qrono-Labs/uptime/4b7ab1139485f65c7462ae0ac4afa56f99539f02/assets/qrono-icon.svg",
     "slug": "qrono-dashboard",
     "status": "down",
-    "uptime": "42.66%",
+    "uptime": "42.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.23%",
+    "uptimeYear": "0.00%",
     "time": 86,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-11": 11,
+      "2023-10-12": 10,
+      "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -1147,8 +1148,7 @@
       "2022-10-16": 1440,
       "2022-10-15": 1440,
       "2022-10-14": 1440,
-      "2022-10-13": 1440,
-      "2022-10-12": 1440
+      "2022-10-13": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://raw.githubusercontent.com/Qrono-Labs/uptime/4b7ab1139485f65c7462ae0ac4afa56f99539f02/assets/qrono-icon.svg",
     "slug": "qrono-hosted-booking-pages",
     "status": "down",
-    "uptime": "45.08%",
+    "uptime": "45.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "4.45%",
+    "uptimeYear": "4.17%",
     "time": 239,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 227,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2023-10-11": 11,
+      "2023-10-12": 10,
+      "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -1526,18 +1527,19 @@
     "icon": "https://raw.githubusercontent.com/Qrono-Labs/uptime/4b7ab1139485f65c7462ae0ac4afa56f99539f02/assets/qrono-icon.svg",
     "slug": "qrono-docs",
     "status": "down",
-    "uptime": "25.49%",
+    "uptime": "25.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 800,
+    "time": 817,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-11": 11,
+      "2023-10-12": 10,
+      "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -1900,8 +1902,7 @@
       "2022-10-16": 1440,
       "2022-10-15": 1440,
       "2022-10-14": 1440,
-      "2022-10-13": 1440,
-      "2022-10-12": 1440
+      "2022-10-13": 1440
     }
   }
 ]
