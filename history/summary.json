@@ -5,18 +5,19 @@
     "icon": "https://raw.githubusercontent.com/Qrono-Labs/uptime/4b7ab1139485f65c7462ae0ac4afa56f99539f02/assets/qrono-icon.svg",
     "slug": "qrono-api",
     "status": "down",
-    "uptime": "36.41%",
+    "uptime": "36.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 550,
+    "time": 545,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-28": 13,
+      "2024-01-29": 12,
+      "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -379,8 +380,7 @@
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
-      "2023-01-30": 1440,
-      "2023-01-29": 1440
+      "2023-01-30": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://raw.githubusercontent.com/Qrono-Labs/uptime/4b7ab1139485f65c7462ae0ac4afa56f99539f02/assets/qrono-icon.svg",
     "slug": "qrono-site",
     "status": "down",
-    "uptime": "36.41%",
+    "uptime": "36.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 121,
+    "time": 114,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-28": 13,
+      "2024-01-29": 12,
+      "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -763,8 +764,7 @@
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
-      "2023-01-30": 1440,
-      "2023-01-29": 1440
+      "2023-01-30": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://raw.githubusercontent.com/Qrono-Labs/uptime/4b7ab1139485f65c7462ae0ac4afa56f99539f02/assets/qrono-icon.svg",
     "slug": "qrono-dashboard",
     "status": "down",
-    "uptime": "36.41%",
+    "uptime": "36.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 86,
+    "time": 84,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-28": 13,
+      "2024-01-29": 12,
+      "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -1147,8 +1148,7 @@
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
-      "2023-01-30": 1440,
-      "2023-01-29": 1440
+      "2023-01-30": 1440
     }
   },
   {
@@ -1157,7 +1157,7 @@
     "icon": "https://raw.githubusercontent.com/Qrono-Labs/uptime/4b7ab1139485f65c7462ae0ac4afa56f99539f02/assets/qrono-icon.svg",
     "slug": "qrono-hosted-booking-pages",
     "status": "down",
-    "uptime": "38.48%",
+    "uptime": "38.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1168,7 +1168,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-28": 13,
+      "2024-01-29": 12,
+      "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -1531,8 +1532,7 @@
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
-      "2023-01-30": 1440,
-      "2023-01-29": 1440
+      "2023-01-30": 1440
     }
   },
   {
@@ -1541,7 +1541,7 @@
     "icon": "https://raw.githubusercontent.com/Qrono-Labs/uptime/4b7ab1139485f65c7462ae0ac4afa56f99539f02/assets/qrono-icon.svg",
     "slug": "qrono-docs",
     "status": "down",
-    "uptime": "21.76%",
+    "uptime": "21.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1552,7 +1552,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-28": 13,
+      "2024-01-29": 12,
+      "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -1915,8 +1916,7 @@
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
-      "2023-01-30": 1440,
-      "2023-01-29": 1440
+      "2023-01-30": 1440
     }
   }
 ]
